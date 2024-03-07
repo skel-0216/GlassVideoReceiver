@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GlassVideoReceiver</string>
+    <string name="swipe_it"><![CDATA[Swipe <- to start]]></string>
+</resources>
